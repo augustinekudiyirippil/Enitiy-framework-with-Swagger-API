@@ -1,0 +1,72 @@
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\appsettings.Development.json
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\appsettings.json
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Enitiy framework with Swagger API.exe
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Enitiy framework with Swagger API.deps.json
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Enitiy framework with Swagger API.runtimeconfig.json
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Enitiy framework with Swagger API.runtimeconfig.dev.json
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Enitiy framework with Swagger API.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\ref\Enitiy framework with Swagger API.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Enitiy framework with Swagger API.pdb
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Enitiy framework with Swagger API.Views.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Enitiy framework with Swagger API.Views.pdb
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.csproj.AssemblyReference.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.AssemblyInfoInputs.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.AssemblyInfo.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.csproj.CoreCompileInputs.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.MvcApplicationPartsAssemblyInfo.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.MvcApplicationPartsAssemblyInfo.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.RazorAssemblyInfo.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.RazorAssemblyInfo.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\staticwebassets\Enitiy framework with Swagger API.StaticWebAssets.Manifest.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\staticwebassets\Enitiy framework with Swagger API.StaticWebAssets.xml
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\scopedcss\bundle\Enitiy framework with Swagger API.styles.css
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.TagHelpers.input.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.TagHelpers.output.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.RazorCoreGenerate.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.RazorTargetAssemblyInfo.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.RazorTargetAssemblyInfo.cs
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.Views.pdb
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.csproj.CopyComplete
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\ref\Enitiy framework with Swagger API.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.pdb
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.genruntimeconfig.cache
