@@ -70,3 +70,6 @@ D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger A
 D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\ref\Enitiy framework with Swagger API.dll
 D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.pdb
 D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\obj\Debug\net5.0\Enitiy framework with Swagger API.genruntimeconfig.cache
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\System.Web.Http.dll
+D:\Augustine\Personal\Microsoft entity framework\Enitiy framework with Swagger API\Enitiy framework with Swagger API\bin\Debug\net5.0\Swashbuckle.Core.dll

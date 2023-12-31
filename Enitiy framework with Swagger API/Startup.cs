@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,17 +36,27 @@ namespace Enitiy_framework_with_Swagger_API
 
             services.AddDbContext<CRUDContext>(options => options.UseSqlServer(Configuration.GetConnectionString("dbUniversity")));
 
+            //below lines commeneted
+            //services.AddSwaggerGen(
+            //    c => c.SwaggerDoc
+            //        (
+            //        "V1", new OpenApiInfo
+            //        {
+            //            Title = "My test API",
+            //            Version = "V1"
+            //        }
+            //        )
+            //    );
 
-            services.AddSwaggerGen(
-                c => c.SwaggerDoc
-                    (
-                    "V1", new OpenApiInfo
-                    {
-                        Title = "My test API",
-                        Version = "V1"
-                    }
-                    )
-                );
+
+            //below lines added
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "API", Version = "v1" });
+                c.ResolveConflictingActions(apiDescriptions => apiDescriptions.First());
+            });
+
+
 
             // ABOVE CODE ADDED
 
@@ -69,11 +80,25 @@ namespace Enitiy_framework_with_Swagger_API
 
             app.UseSwagger();
 
-            app.UseSwaggerUI(c =>
-                    {
-                        c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-                    }
-             );
+
+            //below lines commenetd
+            //app.UseSwaggerUI(c =>
+            //        {
+            //            //c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+
+            //            c.SwaggerEndpoint("./v1/swagger.json", "My API V1");
+            //            // c.RoutePrefix = string.Empty;
+            //        }
+            // );
+ 
+
+            //below lines added
+
+            app.UseSwagger(c =>
+            {
+                c.RouteTemplate = "/swagger/V1/swagger.json";
+            });
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("../swagger/v1/swagger.json", "API v1"));
 
 
 

@@ -25,7 +25,7 @@ namespace Enitiy_framework_with_Swagger_API.Controllers
 
 
 
-        // GET: api/<StudentController>
+        // GET: api/Students
         [HttpGet]
         public IEnumerable<Student> Get()
         {
@@ -43,7 +43,7 @@ namespace Enitiy_framework_with_Swagger_API.Controllers
 
 
 
-        // POST api/<StudentController>
+        // POST api/Students
         [HttpPost]
         public void Post([FromBody] Student student)
         {
